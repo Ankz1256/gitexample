@@ -1,1 +1,3 @@
 i will end this syllabus of git in 4 days.
+
+i have made some changes.
